@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/happyfarm/static/css/main.c8bde692.chunk.css",
-    "main.js": "/happyfarm/static/js/main.0a0fa603.chunk.js",
-    "main.js.map": "/happyfarm/static/js/main.0a0fa603.chunk.js.map",
+    "main.js": "/happyfarm/static/js/main.60e6de63.chunk.js",
+    "main.js.map": "/happyfarm/static/js/main.60e6de63.chunk.js.map",
     "runtime-main.js": "/happyfarm/static/js/runtime-main.0896056b.js",
     "runtime-main.js.map": "/happyfarm/static/js/runtime-main.0896056b.js.map",
     "static/js/2.641cc6b2.chunk.js": "/happyfarm/static/js/2.641cc6b2.chunk.js",
     "static/js/2.641cc6b2.chunk.js.map": "/happyfarm/static/js/2.641cc6b2.chunk.js.map",
     "index.html": "/happyfarm/index.html",
-    "precache-manifest.3b1985d5b3a57d0ce41f3866f21eb1aa.js": "/happyfarm/precache-manifest.3b1985d5b3a57d0ce41f3866f21eb1aa.js",
+    "precache-manifest.6c492789f0be9d0e2c1bb9ce08980096.js": "/happyfarm/precache-manifest.6c492789f0be9d0e2c1bb9ce08980096.js",
     "service-worker.js": "/happyfarm/service-worker.js",
     "static/css/main.c8bde692.chunk.css.map": "/happyfarm/static/css/main.c8bde692.chunk.css.map",
     "static/js/2.641cc6b2.chunk.js.LICENSE.txt": "/happyfarm/static/js/2.641cc6b2.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0896056b.js",
     "static/js/2.641cc6b2.chunk.js",
     "static/css/main.c8bde692.chunk.css",
-    "static/js/main.0a0fa603.chunk.js"
+    "static/js/main.60e6de63.chunk.js"
   ]
 }
