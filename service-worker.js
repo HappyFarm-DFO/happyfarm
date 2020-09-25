@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/happyfarm/precache-manifest.7d023d5f88f5d45637ac2afd05b01d6b.js"
+  "/happyfarm/precache-manifest.0a478e92669a999269ae212e4ffc7d54.js"
 );
 
 self.addEventListener('message', (event) => {
